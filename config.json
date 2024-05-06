@@ -1,0 +1,27 @@
+{
+    "number": 2,
+    "symbol": "FJ",
+    "sellerFeeBasisPoints": 500,
+    "isMutable": true,
+    "isSequential": false,
+    "creators": [
+      {
+        "address": "AVpVzn38qKVzwwBMuNJqgEtQ6dQkvvgTd7JtKMRRbuL9",
+        "share": 100
+      }
+    ],
+    "uploadMethod": "bundlr",
+    "awsConfig": null,
+    "nftStorageAuthToken": null,
+    "shdwStorageAccount": null,
+    "pinataConfig": null,
+    "hiddenSettings": null,
+    "guards": {
+      "default": {
+        "solPayment": {
+          "value": 0.0,
+          "destination": "4eTofWcWAeUpYdqfQdxt1N7VEwQNV7tHQNaHuKbK2X4Z"
+        }
+      }
+    }
+  }

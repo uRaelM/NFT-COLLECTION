@@ -1,0 +1,20 @@
+{
+    "name":"Number #001",
+    "symbol":"FJ",
+    "description":"Collection of 2, Fluminense and God, this is Fluminense.",
+    "image":"fluminense.png",
+    "attributes": [
+        {
+            "trait_type": "Number",
+            "value": "1"
+        }
+    ],
+    "properties": {
+        "files": [
+            {
+                "uri": "fluminense.png",
+                "type": "image/png" 
+            }
+        ]
+    }
+}
